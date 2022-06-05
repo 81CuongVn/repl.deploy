@@ -12,7 +12,7 @@
         "dev": "yarn build && yarn start"
     },
     "dependencies": {
-        "node-fetch": "2.6.1",
+        "node-fetch": "2.6.7",
         "probot": "11.4.1",
         "sshpk": "1.16.1"
     },

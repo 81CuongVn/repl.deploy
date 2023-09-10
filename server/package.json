@@ -1,6 +1,6 @@
 {
     "name": "repl-deploy-bot",
-    "version": "1.0.15",
+    "version": "1.0.16",
     "private": true,
     "description": "Automatically deploy to repl.it from GitHub",
     "author": "Khushraj Rathod <khushraj.rathod@gmail.com>",
@@ -17,7 +17,7 @@
         "sshpk": "1.17.0"
     },
     "devDependencies": {
-        "@types/node": "14.18.58",
+        "@types/node": "14.18.59",
         "@types/node-fetch": "2.6.4",
         "@types/sshpk": "1.17.1",
         "smee-client": "1.2.3",

@@ -273,9 +273,9 @@
     js-yaml "^4.1.0"
 
 "@probot/pino@^2.2.0":
-  version "2.3.5"
-  resolved "https://registry.yarnpkg.com/@probot/pino/-/pino-2.3.5.tgz#f1d051edfc080c9183592e90ac8ae03c14e3951a"
-  integrity sha512-IiyiNZonMw1dHC4EAdD55y5owV733d9Gll/IKsrLikB7EJ54+eMCOtL/qo+OmgWN9XV3NTDfziEQF2og/OBKog==
+  version "2.4.0"
+  resolved "https://registry.yarnpkg.com/@probot/pino/-/pino-2.4.0.tgz#bbe6e6b0eeacde292c1376a16967088308caf0cf"
+  integrity sha512-KUJ3eK2zLrPny7idWm9eQbBNhCJUjm1A1ttA6U4qiR2/ONWSffVlvr8oR26L59sVhoDkv1DOGmGPZS/bvSFisw==
   dependencies:
     "@sentry/node" "^6.0.0"
     pino-pretty "^6.0.0"
@@ -441,9 +441,9 @@
     form-data "^4.0.0"
 
 "@types/node@*":
-  version "22.5.0"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-22.5.0.tgz#10f01fe9465166b4cab72e75f60d8b99d019f958"
-  integrity sha512-DkFrJOe+rfdHTqqMg0bSNlGlQ85hSoh2TPzZyhHsXnMtligRWpxUySiyw8FY14ITt24HVCiQPWxS3KO/QlGmWg==
+  version "22.5.2"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-22.5.2.tgz#e42344429702e69e28c839a7e16a8262a8086793"
+  integrity sha512-acJsPTEqYqulZS/Yp/S3GgeE6GZ0qYODUR8aVr/DkhHQ8l9nd4j5x1/ZJy9/gHrRlFMqkO6i0I3E27Alu4jjPg==
   dependencies:
     undici-types "~6.19.2"
 
@@ -2569,9 +2569,9 @@ typescript@4.9.5:
   integrity sha512-1FXk9E2Hm+QzZQ7z+McJiHL4NW1F2EzMu9Nq9i3zAaGqibafqYwCVU6WyWAuyQRRzOlxou8xZSyXLEN8oKj24g==
 
 uglify-js@^3.1.4:
-  version "3.19.2"
-  resolved "https://registry.yarnpkg.com/uglify-js/-/uglify-js-3.19.2.tgz#319ae26a5fbd18d03c7dc02496cfa1d6f1cd4307"
-  integrity sha512-S8KA6DDI47nQXJSi2ctQ629YzwOVs+bQML6DAtvy0wgNdpi+0ySpQK0g2pxBq2xfF2z3YCscu7NNA8nXT9PlIQ==
+  version "3.19.3"
+  resolved "https://registry.yarnpkg.com/uglify-js/-/uglify-js-3.19.3.tgz#82315e9bbc6f2b25888858acd1fff8441035b77f"
+  integrity sha512-v3Xu+yuwBXisp6QYTcH4UbH+xYJXqnq2m/LtQVWKWzYc1iehYnLixoQDN9FH6/j9/oybfd6W9Ghwkl8+UMKTKQ==
 
 undici-types@~6.19.2:
   version "6.19.8"

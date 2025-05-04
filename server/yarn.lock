@@ -458,9 +458,9 @@
     form-data "^4.0.0"
 
 "@types/node@*":
-  version "22.15.2"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-22.15.2.tgz#1db55aa64618ee93a58c8912f74beefe44aca905"
-  integrity sha512-uKXqKN9beGoMdBfcaTY1ecwz6ctxuJAcUlwE55938g0ZJ8lRxwAZqRz2AJ4pzpt5dHdTPMB863UZ0ESiFUcP7A==
+  version "22.15.3"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-22.15.3.tgz#b7fb9396a8ec5b5dfb1345d8ac2502060e9af68b"
+  integrity sha512-lX7HFZeHf4QG/J7tBZqrCAXwz9J5RD56Y6MpP0eJkka8p+K0RY/yBTW7CYFJ4VGCclxqOLKmiGP5juQc6MKgcw==
   dependencies:
     undici-types "~6.21.0"
 
@@ -1238,9 +1238,9 @@ form-data@^4.0.0:
     mime-types "^2.1.12"
 
 formidable@^2.1.2:
-  version "2.1.4"
-  resolved "https://registry.yarnpkg.com/formidable/-/formidable-2.1.4.tgz#38d86e54240298d31fd71fdcba0cf6364e460e2d"
-  integrity sha512-wtSmhQSwevqVtqnwCctBsn45gEbLyZknwW6Q+p76GI0Gi+V35X6dDw0+Z5dCnjQ0uYIv2PmXXj+QQU++JR4EBQ==
+  version "2.1.5"
+  resolved "https://registry.yarnpkg.com/formidable/-/formidable-2.1.5.tgz#dd7ef4d55c164afaf9b6eb472bfd04b02d66d2dd"
+  integrity sha512-Oz5Hwvwak/DCaXVVUtPn4oLMLLy1CdclLKO1LFgU7XzDpVMUU5UjlSLpGMocyQNNk8F6IJW9M/YdooSn2MRI+Q==
   dependencies:
     "@paralleldrive/cuid2" "^2.2.2"
     dezalgo "^1.0.4"

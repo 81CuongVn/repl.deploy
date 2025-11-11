@@ -8,9 +8,9 @@
   integrity sha512-i1BpaNDVLJdRBEKeJWkVO6tYX6DMFBuwMhSuWqLsY4ufeTKGVuV5rBsUhxPayXqnnWHgXUAmWK16H/ykO5Wj4Q==
 
 "@ioredis/commands@^1.0.2":
-  version "1.4.0"
-  resolved "https://registry.yarnpkg.com/@ioredis/commands/-/commands-1.4.0.tgz#9f657d51cdd5d2fdb8889592aa4a355546151f25"
-  integrity sha512-aFT2yemJJo+TZCmieA7qnYGQooOS7QfNmYrzGtsYd3g9j5iDP8AimYYAesf79ohjbLG12XxC4nG5DyEnC88AsQ==
+  version "1.5.0"
+  resolved "https://registry.yarnpkg.com/@ioredis/commands/-/commands-1.5.0.tgz#3dddcea446a4b1dc177d0743a1e07ff50691652a"
+  integrity sha512-eUgLqrMf8nJkZxT24JvVRrQya1vZkQh8BBeYNwGDqa5I0VUi8ACx7uFvAaLxintokpTenkK6DASvo/bvNbBGow==
 
 "@noble/hashes@^1.1.5":
   version "1.8.0"
@@ -458,9 +458,9 @@
     form-data "^4.0.4"
 
 "@types/node@*":
-  version "24.9.2"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-24.9.2.tgz#90ded2422dbfcafcf72080f28975adc21366148d"
-  integrity sha512-uWN8YqxXxqFMX2RqGOrumsKeti4LlmIMIyV0lgut4jx7KQBcBiW6vkDtIBvHnHIquwNfJhk8v2OtmO8zXWHfPA==
+  version "24.10.0"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-24.10.0.tgz#6b79086b0dfc54e775a34ba8114dcc4e0221f31f"
+  integrity sha512-qzQZRBqkFsYyaSWXuEHc2WR9c0a0CXwiE5FWUvn7ZM+vdy1uZLfCunD38UzhuB7YN/J11ndbDBcTmOdxJo9Q7A==
   dependencies:
     undici-types "~7.16.0"
 
@@ -2657,9 +2657,9 @@ uuid@^8.3.2:
   integrity sha512-+NYs2QeMWy+GWFOEm9xnn6HCDp0l7QBD7ml8zLUmJ+93Q5NF0NocErnwkTkXVFNiX3/fpC6afS8Dhb/gz7R7eg==
 
 validator@^13.7.0:
-  version "13.15.20"
-  resolved "https://registry.yarnpkg.com/validator/-/validator-13.15.20.tgz#054e9238109538a1bf46ae3e1290845a64fa2186"
-  integrity sha512-KxPOq3V2LmfQPP4eqf3Mq/zrT0Dqp2Vmx2Bn285LwVahLc+CsxOM0crBHczm8ijlcjZ0Q5Xd6LW3z3odTPnlrw==
+  version "13.15.22"
+  resolved "https://registry.yarnpkg.com/validator/-/validator-13.15.22.tgz#5f847cf4a799107e5716fc87e5cf2a337a71eb14"
+  integrity sha512-uT/YQjiyLJP7HSrv/dPZqK9L28xf8hsNca01HSz1dfmI0DgMfjopp1rO/z13NeGF1tVystF0Ejx3y4rUKPw+bQ==
 
 vary@~1.1.2:
   version "1.1.2"

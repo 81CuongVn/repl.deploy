@@ -1,6 +1,6 @@
 {
     "name": "repl-deploy-bot",
-    "version": "1.0.26",
+    "version": "1.0.27",
     "private": true,
     "description": "Automatically deploy to repl.it from GitHub",
     "author": "Khushraj Rathod <khushraj.rathod@gmail.com>",
@@ -13,7 +13,7 @@
     },
     "dependencies": {
         "node-fetch": "2.7.0",
-        "probot": "11.4.1",
+        "probot": "12.3.3",
         "sshpk": "1.18.0"
     },
     "devDependencies": {

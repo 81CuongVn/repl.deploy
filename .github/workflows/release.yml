@@ -16,10 +16,10 @@ jobs:
         working-directory: ./daemon
     
     steps:
-    - uses: actions/checkout@v2
+    - uses: actions/checkout@v6
     
     - name: Cache
-      uses: Swatinem/rust-cache@v1.4.0
+      uses: Swatinem/rust-cache@v2.8.2
       with: 
         working-directory: ./daemon
 

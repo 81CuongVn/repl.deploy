@@ -1,13 +1,13 @@
 [package]
 name = "repl_deploy"
-version = "0.1.11"
+version = "0.1.12"
 authors = ["Khushraj Rathod <khushraj.rathod@gmail.com>"]
 edition = "2018"
 
 [dependencies]
 rsa = "0.9.6"
 serde_json = "1.0.116"
-clap = "2.34.0"
+clap = "4.0.0"
 anyhow = "1.0.82"
 tokio = { version = "1.37.0", features = ["rt-multi-thread", "macros"]}
 warp = "0.4"

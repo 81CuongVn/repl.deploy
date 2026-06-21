@@ -534,10 +534,10 @@
     "@types/node" "*"
     "@types/send" "<1"
 
-"@types/sshpk@1.17.4":
-  version "1.17.4"
-  resolved "https://registry.yarnpkg.com/@types/sshpk/-/sshpk-1.17.4.tgz#239f86cc7f39c74285d4aea1cfee9fb3288f856f"
-  integrity sha512-5gI/7eJn6wmkuIuFY8JZJ1g5b30H9K5U5vKrvOuYu+hoZLb2xcVEgxhYZ2Vhbs0w/ACyzyfkJq0hQtBfSCugjw==
+"@types/sshpk@1.17.5":
+  version "1.17.5"
+  resolved "https://registry.yarnpkg.com/@types/sshpk/-/sshpk-1.17.5.tgz#97544e5c0e753e0915d7737f456bc4793b26e838"
+  integrity sha512-khJbOFAOnyLaqOoGIlDCF2ZghIb0jM1K1N0rRoKL0ObqUMwfkicu5zlJ5Wsp+Xn2EUduVwONXwsgbGk+COaCug==
   dependencies:
     "@types/asn1" "*"
     "@types/node" "*"

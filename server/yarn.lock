@@ -458,9 +458,9 @@
     form-data "^4.0.4"
 
 "@types/node@*":
-  version "26.6.4"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-26.6.4.tgz#5aaac1a7337945f7f9a2de4e0d14e7107157e813"
-  integrity sha512-ldVPDCzj7fsaGZrLB0NuHuTvJcsNasysBAqMolr/cgxrLd1xbqxIr3XJiPnHHJUCxj5sNF1vnRj9aWnrVh5Jcg==
+  version "26.6.5"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-26.6.5.tgz#cb35209e7767c503551b5fa42a48231c7441d979"
+  integrity sha512-uMzsv9stDdofIZBx4UGh4Z9ZgXnGC9seRDscilBcTHAeOFk67MZg/k9bWVfO+bk4qZmG+l52hRnLwUiH2LnJTg==
   dependencies:
     undici-types "~8.9.0"
 
@@ -1178,9 +1178,9 @@ express@^4.17.1:
     vary "~1.1.2"
 
 fast-copy@^4.0.0:
-  version "4.1.1"
-  resolved "https://registry.yarnpkg.com/fast-copy/-/fast-copy-4.1.1.tgz#e39f2d403aa77a7e10628e3d8d4d8ed4b2ac5256"
-  integrity sha512-A4QTJmuiztpGtr6AMeJts9R4hbj2ZBUwtOaKrG6rw2y7t6+IaJKjz5M3XDs8BUznxDH43FVc6A0y/gWlMl4UtA==
+  version "4.1.2"
+  resolved "https://registry.yarnpkg.com/fast-copy/-/fast-copy-4.1.2.tgz#9119c178a5f2aa568074cf21cd6823068fbfea15"
+  integrity sha512-DUHggaYcouhy5I1LacDJ+JDSqGlumVJP2EAi5Nwt1pWPeLpSvIjkrY+x4fsoI1/+GlTyq+DM9zdgWCFSfqNODA==
 
 fast-redact@^3.0.0:
   version "3.5.0"
@@ -1495,7 +1495,7 @@ is-ci@^2.0.0:
   dependencies:
     ci-info "^2.0.0"
 
-is-core-module@^2.16.1:
+is-core-module@^2.17.0:
   version "2.17.0"
   resolved "https://registry.yarnpkg.com/is-core-module/-/is-core-module-2.17.0.tgz#75c1c76236c9f7e38ddbfff292e127dc13b21027"
   integrity sha512-J/vG0zBCbIKOQFfufSwyXdMrsohyJIUNkrnmo6WZGzoM7tr/lsbfW5b2BvisL6zsyMzK9UxV9L6c7AoFbyXHOA==
@@ -2202,12 +2202,12 @@ registry-url@^5.0.0:
     rc "^1.2.8"
 
 resolve@^1.19.0:
-  version "1.22.12"
-  resolved "https://registry.yarnpkg.com/resolve/-/resolve-1.22.12.tgz#f5b2a680897c69c238a13cd16b15671f8b73549f"
-  integrity sha512-TyeJ1zif53BPfHootBGwPRYT1RUt6oGWsaQr8UyZW/eAm9bKoijtvruSDEmZHm92CwS9nj7/fWttqPCgzep8CA==
+  version "1.22.13"
+  resolved "https://registry.yarnpkg.com/resolve/-/resolve-1.22.13.tgz#d542f97758d768f36091251a6b07540b4343f7b5"
+  integrity sha512-Dj/cW9zBV2aRj6XzCxuGIs3ESZKv02jixne3q6jFZYZ3/Tg09gHHviSMDL4kObh9pqSahdRHEnDoaP2gn8YLhA==
   dependencies:
     es-errors "^1.3.0"
-    is-core-module "^2.16.1"
+    is-core-module "^2.17.0"
     path-parse "^1.0.7"
     supports-preserve-symlinks-flag "^1.0.0"
 
@@ -2239,9 +2239,9 @@ safe-buffer@5.2.1, safe-buffer@^5.0.1, safe-buffer@~5.2.0:
   integrity sha512-YZo3K82SD7Riyi0E1EQPojLz7kpepnSQI9IyPbHHg1XXXevb5dJI7tpyN2ADxGcQbHG7vcyRHk0cbwqcQriUtg==
 
 secure-json-parse@^4.1.0:
-  version "4.1.0"
-  resolved "https://registry.yarnpkg.com/secure-json-parse/-/secure-json-parse-4.1.0.tgz#4f1ab41c67a13497ea1b9131bb4183a22865477c"
-  integrity sha512-l4KnYfEyqYJxDwlNVyRfO2E4NTHfMKAWdUuA8J0yve2Dz/E/PdBepY03RvyJpssIpRFwJoCD55wA+mEDs6ByWA==
+  version "4.1.1"
+  resolved "https://registry.yarnpkg.com/secure-json-parse/-/secure-json-parse-4.1.1.tgz#065e41f68da3fb4472d01d1b08d290d257070d8f"
+  integrity sha512-lnd81MQEZKjhW/Gd2TQqdd4XP6QYNdDW/EP+I7nTrFHP9y2LmaGPIHk9xsnzcOiEr1c39c/e84xFgGviQKBTRw==
 
 semver-diff@^3.1.1:
   version "3.1.1"
@@ -2366,9 +2366,9 @@ sonic-boom@^2.1.0:
     atomic-sleep "^1.0.0"
 
 sonic-boom@^5.0.0:
-  version "5.0.1"
-  resolved "https://registry.yarnpkg.com/sonic-boom/-/sonic-boom-5.0.1.tgz#1b23c9c219b70877ca95ca90879707cede46bc12"
-  integrity sha512-I1E9tHuKe6SdS/Uab4bl2o1ZUBm2SCTDFF9eQ66ehyVcFIBixfecy9DlwXCtnRF8CUzPw7Q4Dn6JQE/8iVl/FQ==
+  version "5.0.2"
+  resolved "https://registry.yarnpkg.com/sonic-boom/-/sonic-boom-5.0.2.tgz#a2ce0c7c70e71f5ef1d5511f67063b0bbaf41705"
+  integrity sha512-/JEruzo6yhNVhsLblTRchgTQHIt7SsdJP0YyrfWaNKjIOQDfrdZv9gwYraYCAsmKV39/LAdV31FLL5NCDpoL/A==
   dependencies:
     atomic-sleep "^1.0.0"
 

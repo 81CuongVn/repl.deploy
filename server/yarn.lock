@@ -666,9 +666,9 @@ before-after-hook@^2.2.0:
   integrity sha512-NzUnlZexiaH/46WDhANlyR2bXRopNg4F/zuSA3OpZnllCUgRaOF2znDioDWrmbNVsuZk6l9pMquQB38cfBZwkQ==
 
 body-parser@~1.20.5:
-  version "1.20.8"
-  resolved "https://registry.yarnpkg.com/body-parser/-/body-parser-1.20.8.tgz#328d51ce46cb19c983f3d9661016df2765283a37"
-  integrity sha512-JNcyFQ64OiijEkPzUBTCe+hyPXUD/3LEldGQ6iF5LR1w00mx9o7xtDWHXBY2iItjdCFGoilOLNQbH943ut7pHA==
+  version "1.20.9"
+  resolved "https://registry.yarnpkg.com/body-parser/-/body-parser-1.20.9.tgz#b64358a113b4d200d7484752cd154b66933e2009"
+  integrity sha512-FISIQxV5u91Y9gvuFq3q/tA/qTqLJn3AhRcEvyozyhJTh5OBFFtv827AdHU7Rbyct4r+Ba1/99oFa1Y3yuFsdw==
   dependencies:
     bytes "~3.1.2"
     content-type "~1.0.5"
@@ -1178,9 +1178,9 @@ express@^4.17.1:
     vary "~1.1.2"
 
 fast-copy@^4.0.0:
-  version "4.2.0"
-  resolved "https://registry.yarnpkg.com/fast-copy/-/fast-copy-4.2.0.tgz#36fe6263e917615b618e29dba67c48b436cb83cd"
-  integrity sha512-WSlnvPXaMdUjFdgxPkovE4e5aslybVod4TNKrEKKyoA8GoHZzbDLlhDXZOvqjtFgjtOHd9TYCstkUcGXy1+SEA==
+  version "4.3.0"
+  resolved "https://registry.yarnpkg.com/fast-copy/-/fast-copy-4.3.0.tgz#e70f9474596589318adff7232b2a23f7dba658ad"
+  integrity sha512-oWBZLHWpUYt2A471n+ayC4+bJSGDWpl2h3COgBxYX5xHFnr7KqOSrYJZX82ZmrtAfVK+SqsOuNMgsoL+lJquuQ==
 
 fast-redact@^3.0.0:
   version "3.5.0"
@@ -1344,12 +1344,12 @@ graceful-fs@^4.1.15, graceful-fs@^4.1.2:
   resolved "https://registry.yarnpkg.com/graceful-fs/-/graceful-fs-4.2.11.tgz#4183e4e8bf08bb6e05bbb2f7d2e0c8f712ca40e3"
   integrity sha512-RbJ5/jmFcNNCcDV5o9eTnBLJ/HszWV0P73bc+Ff4nS/rJj+YaS6IGyiOL0VoBYX+l1Wrl3k63h/KrH+nhJ0XvQ==
 
-handlebars@4.7.9:
-  version "4.7.9"
-  resolved "https://registry.yarnpkg.com/handlebars/-/handlebars-4.7.9.tgz#6f139082ab58dc4e5a0e51efe7db5ae890d56a0f"
-  integrity sha512-4E71E0rpOaQuJR2A3xDZ+GM1HyWYv1clR58tC8emQNeQe3RH7MAzSbat+V0wG78LQBo6m6bzSG/L4pBuCsgnUQ==
+handlebars@4.7.10:
+  version "4.7.10"
+  resolved "https://registry.yarnpkg.com/handlebars/-/handlebars-4.7.10.tgz#12419ea1b41391b3ffcf003f2164dcbce090c417"
+  integrity sha512-P5VJMVM7qgBn6vjXMw8WG9uVI+ncf2pi72j4de4yz5ZULLj2RGqLYaKOYGsgyrViQ0tePOVlN1tDCCXXtFqXKg==
   dependencies:
-    minimist "^1.2.5"
+    minimist "^1.2.8"
     neo-async "^2.6.2"
     source-map "^0.6.1"
     wordwrap "^1.0.0"
@@ -1391,11 +1391,11 @@ hasown@^2.0.2, hasown@^2.0.4:
     function-bind "^1.1.2"
 
 hbs@^4.1.1:
-  version "4.3.1"
-  resolved "https://registry.yarnpkg.com/hbs/-/hbs-4.3.1.tgz#83c94849f0e0ec32e79ed347dba7d781f6382b5b"
-  integrity sha512-3dnqb6UauidoOLE0Ve2661d6rHeJuVFCycO/2vACtx9NCs4cL2xFPuT3CozQ+5vTxjoOMZ5tRJEYDPkMHXl0Tg==
+  version "4.4.0"
+  resolved "https://registry.yarnpkg.com/hbs/-/hbs-4.4.0.tgz#eedd4b40684909e2ebf57c3514241a4ad8590b3e"
+  integrity sha512-e39jgToUl8kFB3h2ewHYSXzfbazNVxja2PQlfH/7aYR8GRsGugSEzDJtZA78ga/zXfCpxR8bBNvNVQcloIPUwg==
   dependencies:
-    handlebars "4.7.9"
+    handlebars "4.7.10"
     walk "2.3.15"
 
 help-me@^5.0.0:
@@ -1796,7 +1796,7 @@ mimic-response@^1.0.0, mimic-response@^1.0.1:
   resolved "https://registry.yarnpkg.com/mimic-response/-/mimic-response-1.0.1.tgz#4923538878eef42063cb8a3e3b0798781487ab1b"
   integrity sha512-j5EctnkH7amfV/q5Hgmoal1g2QHFJRraOtmx0JpIqkxhBhI/lJSl1nMpQ45hVarwNETOoWEimndZ4QK0RHxuxQ==
 
-minimist@^1.2.0, minimist@^1.2.5, minimist@^1.2.6:
+minimist@^1.2.0, minimist@^1.2.6, minimist@^1.2.8:
   version "1.2.8"
   resolved "https://registry.yarnpkg.com/minimist/-/minimist-1.2.8.tgz#c1a464e7693302e082a075cee0c057741ac4772c"
   integrity sha512-2yyAR8qBkN3YuheJanUpWC5U3bb5osDywNB8RzDVlDwDHbocAJveqqj1u8+SVD7jkWT4yvsHCpWqqWqAxb0zCA==
@@ -1870,9 +1870,9 @@ on-exit-leak-free@^2.1.2:
   integrity sha512-0eJJY6hXLGf1udHwfNftBqH+g73EU4B504nZeKpz1sYRKafAghwxEJunB2O7rDZkL4PGfsMVnTXZ2EjibbqcsA==
 
 on-finished@~2.4.1:
-  version "2.4.1"
-  resolved "https://registry.yarnpkg.com/on-finished/-/on-finished-2.4.1.tgz#58c8c44116e54845ad57f14ab10b03533184ac3f"
-  integrity sha512-oVlzkg3ENAhCk2zdv7IJwd/QUD4z2RxRwpkcGY8psCVcCYZNq4wYnVWALHM+brtuJjePWiYF/ClmuDr8Ch5+kg==
+  version "2.4.2"
+  resolved "https://registry.yarnpkg.com/on-finished/-/on-finished-2.4.2.tgz#6932b04b95bf6a4828201db10af75fe5c9c38b73"
+  integrity sha512-ATWUv387i+nLD49EiDoOft5scf32Vsdz3ktrQJG9bi7jRFmaXTssvyvj1EmeKVVgvesbqUtvQQvaS2TpTukAZQ==
   dependencies:
     ee-first "1.1.1"
 
